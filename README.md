@@ -36,4 +36,7 @@ He/Him
 - ⚡ Fun fact: ...
 I have a biology background and enjoy finding parallels between molecular data structures and information organization systems.  
 
+## 💬 Topics I follow
+- [Grassembler – Graph-based Genome Assembly](https://github.com/humberto-ortiz/Grassembler)  
+- [Biotite – A Python Library for Bioinformatics](https://github.com/biotite-dev/biotite)
 -->
